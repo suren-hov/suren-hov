@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Suren Hovhannisyan! 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisiskeanyvy_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suren-hov_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,rust,php,typescript,js,c,linux,mongodb,postgres,mysql,py,ocaml" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=c,go,php,ruby,js,typescript,py,mongodb,postgres,mysql,linux,docker" alt="Skills and tools"/>
   </a>
 </p>
 
